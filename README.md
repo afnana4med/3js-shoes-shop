@@ -17,5 +17,5 @@ An interactive 3D shoe shopping website built using **React**, **Three.js**, and
 
 ---
 
-## 🗂️ Project Structure
+
 
